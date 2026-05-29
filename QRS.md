@@ -78,7 +78,9 @@ Sample Output:
 
 ## OUTPUT
  
+<img width="809" height="471" alt="image" src="https://github.com/user-attachments/assets/ef248ee5-71ce-40e3-a486-88da82ae6004" />
 
+<img width="838" height="466" alt="image" src="https://github.com/user-attachments/assets/4c1cb27a-3b69-44a2-b309-013b4b431ab4" />
 
 ## RESULT:
 
